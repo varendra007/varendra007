@@ -3,9 +3,6 @@
 
 <br>
 
-<!-- <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=varendra007&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p> -->
 
 <br>
 
@@ -16,7 +13,6 @@
 
 - 📫 How to reach me **varendramaurya@gmail.com**
 
-<!-- - ⚡ Fun fact :- food and anime are the reasons to live. -->
 
 <br>
 
@@ -34,9 +30,7 @@
   <a href="https://twitter.com/MauryaVarendra" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="MauryaVarendra" height="30" width="40" /></a>
-<!--   <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
+
 </p>
 
 <br>
@@ -74,22 +68,6 @@
 </p>
 
 
-<!-- <br> -->
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varendra007&show_icons=true&locale=en"
-    alt="varendra007" /></p> -->
 
 <br>
 
-<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varendra007&theme=tokyonight" alt="varendra007"  /></p> -->
-
-<!--[![Varendra's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=varendra007&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Varendra's github stats](https://github-readme-stats.vercel.app/api?username=varendra007&show_icons=true&&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) | ![Varendra's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varendra007&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br> -->
