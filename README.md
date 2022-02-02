@@ -52,9 +52,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br>
-<br>
-<br>
-<br>
+
 <h3>Statistical Data :-</h3>
 
  <p align="left"><img align="center"
