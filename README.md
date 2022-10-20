@@ -7,8 +7,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development, App Development and other programming languages
-
+- 🌱 I'm a passionated software developer.
+- 🌱 Open source contributor during Google Summer of Code 2022 at OWASP Foundation.
+- 🌱 Google cloud Facilitator. 
 - 📫 How to reach me **varendramaurya@gmail.com**
 
 
