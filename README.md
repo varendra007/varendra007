@@ -1,16 +1,21 @@
-<h1 align="center">Hi 👋, I'm Varenda Maurya</h1>
-<h3 align="center">Student at IIT Dharwad🌟.</h3>
+<!-- <h1 align="center">Hi 👋, I'm Varenda Maurya</h1>
+<h3 align="center">Student at IIT Dharwad🌟.</h3> -->
 
 <br>
-<br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<h1 align="center"><b>Hi , I'm Varendra Maurya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Computer+Science+Student+at+IIT+Dharwad;Love+to+learn+and+create"></a>
+</p>
 
 
 - 🌱 I'm a passionated software developer.
-- 🌱 Open source contributor during Google Summer of Code 2022 at OWASP Foundation.
+- 🌱 Computer Science at <span style="font-weight:bold">IIT Dharwad</span>.
+- 🌱 Open source contributor during <span style="font-weight:bold">Google Summer of Code 2022</span> at OWASP Foundation.
 - 🌱 Google cloud Facilitator. 
 - 📫 How to reach me **varendramaurya@gmail.com**
+- 📫 https://varendra-maurya.netlify.app
 
 
 <br>
