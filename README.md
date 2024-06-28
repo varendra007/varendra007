@@ -10,19 +10,18 @@
 </p>
 
 
-- 🌱 I'm a passionated software developer.
-- 🌱 Computer Science at <span style="font-weight:bold">IIT Dharwad</span>.
+- 🌱 Computer Science Alumnus at <span style="font-weight:bold">IIT Dharwad</span>.
 - 🌱 Open source contributor during <span style="font-weight:bold">Google Summer of Code 2022</span> at OWASP Foundation.
 - 🌱 Google cloud Facilitator. 
 - 📫 How to reach me **varendramaurya@gmail.com**
-- 📫 https://varendra-maurya.netlify.app
+- 📫 https://www.varendra.co.in
 
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/varendra-maurya-4179901bb/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/varendra-maurya/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Varendra Maurya" height="30" width="40" /></a>
   <a href="https://www.facebook.com/people/Varendra-Maurya/100070153639569/" target="blank"><img align="center"
