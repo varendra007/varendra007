@@ -1,80 +1,147 @@
-<!-- <h1 align="center">Hi 👋, I'm Varenda Maurya</h1>
-<h3 align="center">Student at IIT Dharwad🌟.</h3> -->
+<div align="center">
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A4F6E,100:00C9A7&height=220&section=header&text=Varendra+Maurya&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full+Stack+Developer+•+Open+Source+•+Cloud+Enthusiast&descAlignY=62&descSize=17&descColor=A8DADC"/>
 
-<h1 align="center"><b>Hi , I'm Varendra Maurya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Computer+Science+Student+at+IIT+Dharwad;Love+to+learn+and+create"></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Google+Summer+of+Code+2022+%40+OWASP+%F0%9F%8C%9F;Google+Cloud+Facilitator+%E2%98%81%EF%B8%8F;IIT+Dharwad+CS+Alumnus+%F0%9F%8E%93;Building+things+that+matter+%E2%9C%A8" alt="Typing SVG"/>
+</a>
 
+<br/><br/>
 
-- 🌱 Computer Science Alumnus at <span style="font-weight:bold">IIT Dharwad</span>.
-- 🌱 Open source contributor during <span style="font-weight:bold">Google Summer of Code 2022</span> at OWASP Foundation.
-- 🌱 Google cloud Facilitator. 
-- 📫 How to reach me **varendramaurya@gmail.com**
-- 📫 https://www.varendra.co.in
+<img src="https://komarev.com/ghpvc/?username=varendra007&color=00C9A7&style=flat-square&label=Profile+Views"/>
+&nbsp;
+<a href="https://www.varendra.co.in"><img src="https://img.shields.io/badge/Portfolio-varendra.co.in-00C9A7?style=flat-square&logo=safari&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:varendramaurya@gmail.com"><img src="https://img.shields.io/badge/Email-varendramaurya@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
+</div>
 
-<br>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/varendra-maurya/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Varendra Maurya" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/people/Varendra-Maurya/100070153639569/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Varendra Maurya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/varendra_maurya/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="varendra_maurya" height="30" width="40" /></a>
-  <a href="https://twitter.com/MauryaVarendra" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="MauryaVarendra" height="30" width="40" /></a>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="Coding"/>
 
-</p>
+## 👨‍💻 About Me
 
-<br>
- <h3>🛠 &nbsp;Tech Stack</h3>
+```yaml
+name:       Varendra Maurya
+location:   India
+education:  B.Tech Computer Science @ IIT Dharwad
+role:       Full Stack Developer
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+highlights:
+  - Google Summer of Code 2022 @ OWASP Foundation
+  - Google Cloud Facilitator
+  - Open Source Contributor
 
-<br>
+stack:      [React, React Native, Node.js, Django, Python]
+open_to:    Collaborations, Open Source, Opportunities
+contact:    varendramaurya@gmail.com
+```
 
-<h3>Statistical Data :-</h3>
+<br clear="right"/>
 
- <p align="left"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=varendra007&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-    alt="varenda007" /></p>
-<!--   <br><p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=varendra007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="varendra007's Github Stats">
-</p>  -->
- <br>  
-<p align="left">
+---
 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varendra007&theme=tokyonight" alt="varendra007"  />
-</p>
+## 🏅 Achievements
 
+<div align="center">
 
+![IIT Dharwad](https://img.shields.io/badge/IIT%20Dharwad-CS%20Alumnus-0D1B2A?style=for-the-badge&logo=graduation-cap&logoColor=A8DADC&labelColor=0A4F6E)
+&nbsp;
+![GSoC 2022](https://img.shields.io/badge/GSoC%202022-OWASP%20Foundation-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a73e8)
+&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Facilitator-DB4437?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=f29900)
 
-<br>
+</div>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/varendra007/count.svg" />
-</p>
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**⚡ Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp&theme=dark"/>
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark"/>
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,django&theme=dark"/>
+
+**🔧 Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,gcp&theme=dark"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=varendra007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=varendra007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varendra007&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varendra007&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=varendra007&bg_color=0D1B2A&color=00C9A7&line=0A4F6E&point=00C9A7&area_color=00C9A7&area=true&hide_border=true&custom_title=Contribution+Activity"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varendra-maurya/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MauryaVarendra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/varendra_maurya/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Varendra-Maurya/100070153639569/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=safari&logoColor=white)](https://www.varendra.co.in)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:0A4F6E,100:0D1B2A&height=130&section=footer"/>
+
+</div>
