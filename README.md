@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A4F6E,100:00C9A7&height=220&section=header&text=Varendra+Maurya&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Entrepreneur-Engineer+%E2%80%A2+AI+%26+Tech+%E2%80%A2+Open+Source&descAlignY=62&descSize=17&descColor=A8DADC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A4F6E,100:00C9A7&height=220&section=header&text=Varendra+Maurya&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Entrepreneur-Engineer+%7C+AI+%26+Tech+%7C+Open+Source&descAlignY=62&descSize=17&descColor=A8DADC"/>
 
 <br/>
 
@@ -10,8 +10,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=varendra007&color=00C9A7&style=flat-square&label=Profile+Views"/>
-&nbsp;
 <a href="https://www.varendra.co.in"><img src="https://img.shields.io/badge/Portfolio-varendra.co.in-00C9A7?style=flat-square&logo=safari&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:varendramaurya@gmail.com"><img src="https://img.shields.io/badge/Email-varendramaurya@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -35,7 +33,7 @@ highlights:
   - Google Cloud Facilitator
   - Open Source Enthusiast
 
-stack:       [React, Node.js, Django, Python, Cloud, AI/ML]
+stack:       [Python, PyTorch, FastAPI, Docker, Kubernetes, AWS]
 open_to:     Collaborations, Open Source, Opportunities
 contact:     varendramaurya@gmail.com
 ```
@@ -64,17 +62,21 @@ contact:     varendramaurya@gmail.com
 
 <div align="center">
 
-**⚡ Languages**
+**🤖 AI / ML**
 
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&theme=dark"/>
 
-**🌐 Web & Mobile**
+**☁️ Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,html,css,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux&theme=dark"/>
 
-**☁️ Cloud, AI & Tools**
+**⚙️ Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,pytorch,git,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,redis&theme=dark"/>
+
+**🔧 Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark"/>
 
 </div>
 
