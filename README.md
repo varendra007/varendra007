@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A4F6E,100:00C9A7&height=220&section=header&text=Varendra+Maurya&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full+Stack+Developer+•+Open+Source+•+Cloud+Enthusiast&descAlignY=62&descSize=17&descColor=A8DADC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050D1A,50:0A2540,100:00C9A7&height=230&section=header&text=Varendra+Maurya&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO+%40+CloudDefense.AI+%E2%80%A2+Entrepreneur-Engineer+%E2%80%A2+AI+%26+Cloud+Security&descAlignY=60&descSize=16&descColor=A8DADC"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Google+Summer+of+Code+2022+%40+OWASP+%F0%9F%8C%9F;Google+Cloud+Facilitator+%E2%98%81%EF%B8%8F;IIT+Dharwad+CS+Alumnus+%F0%9F%8E%93;Building+things+that+matter+%E2%9C%A8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=750&lines=CTO+%40+CloudDefense.AI+%F0%9F%9B%A1%EF%B8%8F;Entrepreneur-Engineer+in+AI+%26+Cloud+Security+%F0%9F%A4%96;Building+AI-Powered+Security+for+the+Cloud+Era+%F0%9F%9A%80;GSoC+2022+%40+OWASP+Foundation+%F0%9F%8C%9F;IIT+Dharwad+CS+Alumnus+%F0%9F%8E%93" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -25,28 +25,39 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name:       Varendra Maurya
-location:   India
-education:  B.Tech Computer Science @ IIT Dharwad
-role:       Full Stack Developer
+name:        Varendra Maurya
+role:        CTO @ CloudDefense.AI
+identity:    Entrepreneur-Engineer
 
-highlights:
-  - Google Summer of Code 2022 @ OWASP Foundation
+company:
+  name:      CloudDefense.AI
+  focus:     AI-Powered Cloud Security Platform
+  mission:   Securing cloud-native teams with intelligent automation
+
+education:   B.Tech CS @ IIT Dharwad
+background:
+  - GSoC 2022 Contributor @ OWASP Foundation
   - Google Cloud Facilitator
-  - Open Source Contributor
+  - Engineer → Founder → CTO
 
-stack:      [React, React Native, Node.js, Django, Python]
-open_to:    Collaborations, Open Source, Opportunities
-contact:    varendramaurya@gmail.com
+building:    The future of AI-driven cloud security
+open_to:     Partnerships, Investments, Technical Collaborations
+contact:     varendramaurya@gmail.com
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🏅 Achievements
+## 🏅 Achievements & Current Role
 
 <div align="center">
+
+![CTO](https://img.shields.io/badge/CTO-CloudDefense.AI-00C9A7?style=for-the-badge&logo=shield&logoColor=white&labelColor=050D1A)
+&nbsp;
+![AI Security](https://img.shields.io/badge/AI--Powered-Cloud%20Security-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=4C1D95)
+
+<br/><br/>
 
 ![IIT Dharwad](https://img.shields.io/badge/IIT%20Dharwad-CS%20Alumnus-0D1B2A?style=for-the-badge&logo=graduation-cap&logoColor=A8DADC&labelColor=0A4F6E)
 &nbsp;
@@ -58,9 +69,34 @@ contact:    varendramaurya@gmail.com
 
 ---
 
+## 🚀 What I'm Building
+
+<div align="center">
+
+> **[CloudDefense.AI](https://clouddefense.ai)** — AI-powered cloud security platform helping engineering teams find and fix vulnerabilities across their entire cloud infrastructure. Built for the speed of modern DevSecOps.
+
+</div>
+
+| | Focus Area |
+|---|---|
+| 🛡️ | AI-driven threat detection & cloud misconfiguration scanning |
+| ⚡ | DevSecOps automation — security at the speed of development |
+| 🤖 | LLM-powered security insights & remediation guidance |
+| ☁️ | Multi-cloud coverage — AWS, GCP, Azure, Kubernetes |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+**🤖 AI & Security**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&theme=dark"/>
+
+**☁️ Cloud & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux&theme=dark"/>
 
 **⚡ Languages**
 
@@ -74,9 +110,9 @@ contact:    varendramaurya@gmail.com
 
 <img src="https://skillicons.dev/icons?i=nodejs,django&theme=dark"/>
 
-**🔧 Tools & Platforms**
+**🔧 Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,gcp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
